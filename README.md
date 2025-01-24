@@ -1,0 +1,1 @@
+A weather app built with HTML, CSS, and JavaScript that lets users check real-time weather updates. By entering a city name, users can view details like temperature, humidity, wind speed, and weather description. The app fetches data from a weather API and displays it in a simple, user-friendly interface.
